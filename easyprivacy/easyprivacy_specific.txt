@@ -1104,11 +1104,14 @@
 ||searchiq.co/api/tr?
 ||secure.checkout.visa.com/logging/
 ||seekingalpha.com/mone_event
+||sentry.eks.hoyoverse.com^
 ||servo-report.dvdfab.
 ||sexu.com/api/events
 ||sexu.com/api/ttrack
 ||sexybabepics.net/re/?ping
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
+||sg-hk4e-api.hoyoverse.com^
+||sg-public-data-api.hoyoverse.com^
 ||sharesies.com/v1/identify
 ||sharesies.com/v1/track
 ||shavetape.cash/stat/
